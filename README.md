@@ -1,2 +1,2 @@
 # TRUTHandCULTUREapi
-An API to serve request for truth and culture website
+An API to serve incoming request from truth and culture website
